@@ -1,4 +1,4 @@
-package com.loan.loan;
+package com.fastcampus.loan;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
